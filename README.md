@@ -19,6 +19,9 @@ From this brief we designed, planned and developed a web app which displays the 
 
 ### To run app >>
 npm install to pull down node modules
+
 run nodemon server.js
+
 run webpack -w from client folder
+
 run mongod and mongo < db_seeds.js from the seeds folder
