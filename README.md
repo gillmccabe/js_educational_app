@@ -28,7 +28,7 @@ Main Page, displaying results of selected diseases on map:
 
 Graphs Displaying Overall Data:
 
-<img width="1275" alt="screen shot 2016-10-21 at 20 08 17" src="https://cloud.githubusercontent.com/assets/17990363/19608648/95b2e5c8-97ca-11e6-9740-881103f83766.png">
+<img width="700" alt="screen shot 2016-10-21 at 20 08 17" src="https://cloud.githubusercontent.com/assets/17990363/19608648/95b2e5c8-97ca-11e6-9740-881103f83766.png">
 
 
 
