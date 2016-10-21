@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  left: 22%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#infoWindowImage {
+  width: 100%;
+  height: 100%;
+}
+
+.gm-style-iw {
+  width:372px !important;
+  background-color: #FFFFFF;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: sans-serif;
+  top: 0 !important;
+  left:0 !important;
+  border-radius: 7px 7px 0 0;
+}
+
+#bodyContent {
+  padding: 5px
+  width: 50px;
+}
+
+#infoWindowStyles {
+  height: 150px;
+  width: 320px;
+}
+
+#logo {
+  margin-top: 50px;
+  width: 40%;
+  height: 15%;
+  margin-left: 78px;
+  margin-bottom: 20px;
+}
+
+#logo-title {
+  font-size: 46px; 
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 17px;
+  margin-bottom: 55px;
+}
+
+#diseasio-selector {
+  display: none;
+}
+
+#selector-of-diseases {
+  display: none;
+}
+
+.sidenav {
+  height: 100%;
+  width: 22%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  color: #fff;
+  background-color: #000000;
+  background: -webkit-linear-gradient(top, #000000, #414141);
+  background: linear-gradient(to bottom, #000000, #414141);
+  overflow-x: hidden;
+  padding-top: 20px; 
+  transition: 0.5s;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.sidenav select {
+  margin-top: 20px;
+  width: 77%;
+  margin-left: 26px;
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #000000;
+  display: block;
+  transition: 0.3s
+}
+
+#viewAllBtn {
+  margin-top: 20px;
+  margin-left: 37px;
+  font-size: 14px;
+  background-color: #f9f9f9;
+  color: #000000;
+  border-style: solid;
+  border-color: #818181;
+  border-radius: 5px;
+  padding: 2px;
+  padding-left:14px;
+  padding-right:14px;
+  box-shadow: 2px 4px 2px rgba(0, 0, 0, 0.5);
+}
+
+#reset {
+  margin-top: 20px;
+  margin-left: 13px;
+  font-size: 14px;
+  background-color: #f9f9f9;
+  color: #000000;
+  border-style: solid;
+  border-color: #818181;
+  border-radius: 5px;
+  padding: 2px;
+  padding-left:22px;
+  padding-right:22px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.onoffswitch {
+  margin-left: 44px;
+  margin-top:630px;
+  position: fixed; 
+  width: 182px;
+  -webkit-user-select:none; -moz-user-select:none; -ms-user-select: none;
+}
+
+.onoffswitch-checkbox {
+  display: none;
+}
+
+.onoffswitch-label {
+  display: block; overflow: hidden; cursor: pointer;
+  border: 2px solid #999999; border-radius: 20px;
+}
+
+.onoffswitch-inner {
+  display: block; width: 200%; margin-left: -100%;
+  transition: margin 0.3s ease-in 0s;
+}
+
+.onoffswitch-inner:before, .onoffswitch-inner:after {
+  display: block; float: left; width: 50%; height: 40px; padding: 0; line-height: 40px;
+  font-size: 23px; color: white; font-family: Trebuchet, Arial, sans-serif; font-weight: bold;
+  box-sizing: border-box;
+}
+
+.onoffswitch-inner:before {
+  content: "MAP";
+  padding-left: 25px;
+  background-color: #F53939; color: #FFFFFF;
+}
+
+.onoffswitch-inner:after {
+  content: "CHART";
+  padding-right: 25px;
+  background-color: #F53939; color: #FFFFFF;
+  text-align: right;
+}
+
+.onoffswitch-switch {
+  display: block; width: 36px; margin: 2px;
+  background: #FFFFFF;
+  position: absolute; top: 0; bottom: 0;
+  right: 138px;
+  border: 2px solid #999999; border-radius: 20px;
+  transition: all 0.3s ease-in 0s; 
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+  margin-left: 0;
+}
+
+.onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+  right: 0px; 
+}
+   
+
+#slider {
+  position: absolute; 
+  z-index:99;
+  margin-top: 645px;
+  margin-left: 425px;
+  width: 730px;
+  height: 50px;
+  border-style: solid;
+  background-color: black;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+
+#dateslider {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  width: 600px;
+}
+
+#rangeValLabel {
+  font-family: helvetica;
+  color: white;
+}
+
+#Tuberculosis {
+  color: #30A9DE;
+  font-family: helvetica;
+  list-style-type: square;
+}
+
+#Smallpox {
+  color: #4f953b;
+  font-family: helvetica;
+  list-style-type: square;
+}
+
+#HIV-AIDS {
+  color: #c03546;
+  font-family: helvetica;
+  list-style-type: square;
+}
+
+#Zika {
+  color: #e97f02;
+  font-family: helvetica;
+  list-style-type: square;
+}
+
+#headingDiv {
+   width: 45%;
+   margin-right: 0px;
+}
+ 
+#subheadingDiv {
+  width: 45%;
+  height: 100px;
+}
+
+#bodycontentDiv {
+  margin-right: 0px;
+  margin-top: 100px;
+}
+
+#infoWindowImageDiv {
+  width: 120px;
+  height: 100px;
+  margin-left: 170px;
+  margin-right: 5px;
+  margin-top: -130px;
+  margin-bottom: 25px;
+} 
+
+#chart {
+  visibility: hidden;
+  z-index: 100;
+  position: absolute;
+  top: 0;
+  left: 22%;
+  right: 33%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%; 
+}
