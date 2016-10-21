@@ -20,9 +20,15 @@ Planning Process:
 
 <img width="700" alt="screen shot 2016-10-06 at 14 56 28" src="https://cloud.githubusercontent.com/assets/17990363/19608417/190b5844-97c9-11e6-86af-9809676254c7.png">
 
+
 Main Page, displaying results of selected diseases on map:
 
 <img width="700" alt="screen shot 2016-10-17 at 16 41 24" src="https://cloud.githubusercontent.com/assets/17990363/19608472/8cdd443a-97c9-11e6-900f-5e6ce4a5578e.png">
+
+
+Graphs Displaying Overall Data:
+
+<img width="1275" alt="screen shot 2016-10-21 at 20 08 17" src="https://cloud.githubusercontent.com/assets/17990363/19608648/95b2e5c8-97ca-11e6-9740-881103f83766.png">
 
 
 
