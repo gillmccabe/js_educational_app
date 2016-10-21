@@ -7,6 +7,7 @@ From this brief we designed, planned and developed a web app which displays the 
 
 
 ## Our MVP
+
 - Should be able to select a disease from a list of diseases
 - Upon selecting a disease, markers should be placed on the map to show where the disease is prevalent
 - Should be able to add more than one disease to the map at once
@@ -14,6 +15,10 @@ From this brief we designed, planned and developed a web app which displays the 
 
 
 ## Screenshots
+
+Planning Process:
+
+<img width="700" alt="screen shot 2016-10-06 at 14 56 28" src="https://cloud.githubusercontent.com/assets/17990363/19608417/190b5844-97c9-11e6-86af-9809676254c7.png">
 
 
 
