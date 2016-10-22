@@ -34,8 +34,7 @@ Extra information provided by clicking on markers:
 
 Graphs Displaying Overall Data:
 
-<img width="700" alt="screen shot 2016-10-22 at 18 20 15" src="https://cloud.githubusercontent.com/assets/17990363/19621191/3b29d962-9884-11e6-84c9-bcc1a30b3fc8.png">
-
+<img width="700" alt="screen shot 2016-10-22 at 19 42 47" src="https://cloud.githubusercontent.com/assets/17990363/19621719/cbb834b4-988f-11e6-935f-4ebac31630da.png">
 
 
 
