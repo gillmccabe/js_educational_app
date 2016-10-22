@@ -23,7 +23,7 @@ Planning Process:
 
 Main Page, displaying results of selected diseases on map:
 
-<img width="700" alt="screen shot 2016-10-22 at 18 17 37" src="https://cloud.githubusercontent.com/assets/17990363/19621173/f3e656b6-9883-11e6-8c4e-72218370cf72.png">
+<img width="700" alt="screen shot 2016-10-22 at 23 51 06" src="https://cloud.githubusercontent.com/assets/17990363/19623052/cee15f9e-98b2-11e6-8da8-14c6983a8372.png">
 
 
 Extra information provided by clicking on markers:
