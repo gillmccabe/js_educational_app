@@ -29,7 +29,7 @@ Main Page, displaying results of selected diseases on map:
 
 Extra information provided by clicking on markers:
 
-<img width="700" alt="screen shot 2016-10-23 at 00 21 37" src="https://cloud.githubusercontent.com/assets/17990363/19623161/e3a1af66-98b6-11e6-882d-23e39c3586bb.png">
+<img width="700" alt="screen shot 2016-10-23 at 00 19 36" src="https://cloud.githubusercontent.com/assets/17990363/19623160/dabe4ecc-98b6-11e6-8f8b-0441d349c336.png">
 
 
 
