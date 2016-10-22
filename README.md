@@ -1,7 +1,7 @@
 # Educational Web App
 
 A week-long group project created using JS, Google Maps, our own custom API and MongoDB.
-Our initial brief was to create an interactive educational app that display information in a fun and interesting way.  
+Our initial brief was to create an interactive educational app that displays information in a fun and interesting way.  
 
 From this brief we designed, planned and developed a web app which displays the spread of infectious diseases across the world over several centuries and provides the user with facts about each disease. 
 
